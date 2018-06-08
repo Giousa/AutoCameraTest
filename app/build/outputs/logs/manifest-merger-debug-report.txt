@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/zhangmengmeng/Downloads/WorkSpaceTest/TakePhotoDemo1/app/src/main/AndroidManifest.xml:2:1-31:12
+ADDED from /Users/zhangmengmeng/Downloads/WorkSpaceTest/TakePhotoDemo1/app/src/main/AndroidManifest.xml:2:1-35:12
 	package
 		ADDED from /Users/zhangmengmeng/Downloads/WorkSpaceTest/TakePhotoDemo1/app/src/main/AndroidManifest.xml:3:5-40
 		INJECTED from /Users/zhangmengmeng/Downloads/WorkSpaceTest/TakePhotoDemo1/app/src/main/AndroidManifest.xml
@@ -44,7 +44,7 @@ ADDED from /Users/zhangmengmeng/Downloads/WorkSpaceTest/TakePhotoDemo1/app/src/m
 	android:name
 		ADDED from /Users/zhangmengmeng/Downloads/WorkSpaceTest/TakePhotoDemo1/app/src/main/AndroidManifest.xml:14:19-67
 application
-ADDED from /Users/zhangmengmeng/Downloads/WorkSpaceTest/TakePhotoDemo1/app/src/main/AndroidManifest.xml:15:5-29:19
+ADDED from /Users/zhangmengmeng/Downloads/WorkSpaceTest/TakePhotoDemo1/app/src/main/AndroidManifest.xml:15:5-33:19
 	android:label
 		ADDED from /Users/zhangmengmeng/Downloads/WorkSpaceTest/TakePhotoDemo1/app/src/main/AndroidManifest.xml:18:9-41
 	android:allowBackup
@@ -69,3 +69,9 @@ category#android.intent.category.LAUNCHER
 ADDED from /Users/zhangmengmeng/Downloads/WorkSpaceTest/TakePhotoDemo1/app/src/main/AndroidManifest.xml:26:17-77
 	android:name
 		ADDED from /Users/zhangmengmeng/Downloads/WorkSpaceTest/TakePhotoDemo1/app/src/main/AndroidManifest.xml:26:27-74
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/zhangmengmeng/Downloads/WorkSpaceTest/TakePhotoDemo1/app/src/main/AndroidManifest.xml:30:9-32:50
+	android:resource
+		ADDED from /Users/zhangmengmeng/Downloads/WorkSpaceTest/TakePhotoDemo1/app/src/main/AndroidManifest.xml:32:13-47
+	android:name
+		ADDED from /Users/zhangmengmeng/Downloads/WorkSpaceTest/TakePhotoDemo1/app/src/main/AndroidManifest.xml:31:13-63
