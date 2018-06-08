@@ -2,6 +2,7 @@ package com.feijian.takephotodemo;
 
 import android.content.Intent;
 import android.net.Uri;
+import android.os.Build;
 import android.os.Bundle;
 import android.app.Activity;
 import android.os.Environment;
@@ -31,16 +32,19 @@ public class MainActivity extends Activity implements InitTimetoTakePic.OnTakePi
 
 
 
+        if (Build.VERSION.SDK_INT >= 23){
+            File file=new File(Environment.getExternalStorageDirectory(), "/a_picture/pic/"+System.currentTimeMillis() + ".jpg");
+            if (!file.getParentFile().exists())file.getParentFile().mkdirs();
+            Uri imageUri = Uri.fromFile(file);
+            Intent intent = new Intent();
+            //设置Action为拍照
+            intent.setAction(MediaStore.ACTION_IMAGE_CAPTURE);
+            //将拍取的照片保存到指定URI
+            intent.putExtra(MediaStore.EXTRA_OUTPUT, imageUri);
+            startActivityForResult(intent,1);
+        }
 
-        File file=new File(Environment.getExternalStorageDirectory(), "/a_picture/pic/"+System.currentTimeMillis() + ".jpg");
-        if (!file.getParentFile().exists())file.getParentFile().mkdirs();
-        Uri imageUri = Uri.fromFile(file);
-        Intent intent = new Intent();
-        //设置Action为拍照
-        intent.setAction(MediaStore.ACTION_IMAGE_CAPTURE);
-        //将拍取的照片保存到指定URI
-        intent.putExtra(MediaStore.EXTRA_OUTPUT, imageUri);
-        startActivityForResult(intent,1);
+
 
 
 

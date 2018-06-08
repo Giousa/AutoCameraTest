@@ -1,27 +1,36 @@
 #Internal package file, do not edit.
-#Fri Jun 08 15:25:47 CST 2018
+#Fri Jun 08 15:29:11 CST 2018
 2.base=/Users/zhangmengmeng/Downloads/WorkSpaceTest/TakePhotoDemo1/app/build/intermediates/res/resources-debug.ap_
-5.file=/Users/zhangmengmeng/Downloads/WorkSpaceTest/TakePhotoDemo1/app/build/intermediates/res/resources-debug.ap_/res/menu/main.xml
+5.file=/Users/zhangmengmeng/Downloads/WorkSpaceTest/TakePhotoDemo1/app/build/intermediates/res/resources-debug.ap_/res/xml/file_paths.xml
 5.set=ANDROID_RESOURCE
 3.base=/Users/zhangmengmeng/Downloads/WorkSpaceTest/TakePhotoDemo1/app/build/intermediates/res/resources-debug.ap_
-6.file=/Users/zhangmengmeng/Downloads/WorkSpaceTest/TakePhotoDemo1/app/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/ic_launcher.png
+6.file=/Users/zhangmengmeng/Downloads/WorkSpaceTest/TakePhotoDemo1/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_main.xml
 2.set=ANDROID_RESOURCE
+10.set=ANDROID_RESOURCE
+10.file=/Users/zhangmengmeng/Downloads/WorkSpaceTest/TakePhotoDemo1/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_launcher.png
 4.base=/Users/zhangmengmeng/Downloads/WorkSpaceTest/TakePhotoDemo1/app/build/intermediates/res/resources-debug.ap_
-7.file=/Users/zhangmengmeng/Downloads/WorkSpaceTest/TakePhotoDemo1/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
-7.set=DEX
-count=8
+7.file=/Users/zhangmengmeng/Downloads/WorkSpaceTest/TakePhotoDemo1/app/build/intermediates/res/resources-debug.ap_/res/menu/main.xml
+7.set=ANDROID_RESOURCE
+count=11
 0.file=/Users/zhangmengmeng/Downloads/WorkSpaceTest/TakePhotoDemo1/app/build/intermediates/res/resources-debug.ap_/res/menu-v11/main.xml
 5.base=/Users/zhangmengmeng/Downloads/WorkSpaceTest/TakePhotoDemo1/app/build/intermediates/res/resources-debug.ap_
+8.file=/Users/zhangmengmeng/Downloads/WorkSpaceTest/TakePhotoDemo1/app/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/ic_launcher.png
 4.set=ANDROID_RESOURCE
 6.base=/Users/zhangmengmeng/Downloads/WorkSpaceTest/TakePhotoDemo1/app/build/intermediates/res/resources-debug.ap_
-1.file=/Users/zhangmengmeng/Downloads/WorkSpaceTest/TakePhotoDemo1/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+1.file=/Users/zhangmengmeng/Downloads/WorkSpaceTest/TakePhotoDemo1/app/build/intermediates/res/resources-debug.ap_/res/drawable-mdpi-v4/ic_launcher.png
+9.set=DEX
+9.file=/Users/zhangmengmeng/Downloads/WorkSpaceTest/TakePhotoDemo1/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+10.base=/Users/zhangmengmeng/Downloads/WorkSpaceTest/TakePhotoDemo1/app/build/intermediates/res/resources-debug.ap_
 1.set=ANDROID_RESOURCE
-7.base=/Users/zhangmengmeng/Downloads/WorkSpaceTest/TakePhotoDemo1/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
-2.file=/Users/zhangmengmeng/Downloads/WorkSpaceTest/TakePhotoDemo1/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+7.base=/Users/zhangmengmeng/Downloads/WorkSpaceTest/TakePhotoDemo1/app/build/intermediates/res/resources-debug.ap_
+2.file=/Users/zhangmengmeng/Downloads/WorkSpaceTest/TakePhotoDemo1/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/ic_launcher.png
 6.set=ANDROID_RESOURCE
 0.base=/Users/zhangmengmeng/Downloads/WorkSpaceTest/TakePhotoDemo1/app/build/intermediates/res/resources-debug.ap_
-3.file=/Users/zhangmengmeng/Downloads/WorkSpaceTest/TakePhotoDemo1/app/build/intermediates/res/resources-debug.ap_/res/xml/file_paths.xml
+8.base=/Users/zhangmengmeng/Downloads/WorkSpaceTest/TakePhotoDemo1/app/build/intermediates/res/resources-debug.ap_
+3.file=/Users/zhangmengmeng/Downloads/WorkSpaceTest/TakePhotoDemo1/app/build/intermediates/res/resources-debug.ap_/resources.arsc
 3.set=ANDROID_RESOURCE
 1.base=/Users/zhangmengmeng/Downloads/WorkSpaceTest/TakePhotoDemo1/app/build/intermediates/res/resources-debug.ap_
-4.file=/Users/zhangmengmeng/Downloads/WorkSpaceTest/TakePhotoDemo1/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_main.xml
+9.base=/Users/zhangmengmeng/Downloads/WorkSpaceTest/TakePhotoDemo1/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+4.file=/Users/zhangmengmeng/Downloads/WorkSpaceTest/TakePhotoDemo1/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+8.set=ANDROID_RESOURCE
 0.set=ANDROID_RESOURCE
